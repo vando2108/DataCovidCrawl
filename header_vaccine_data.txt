@@ -1,0 +1,15 @@
+lastOnceInjected
+lastTwiceInjected
+popOverEighteen
+population
+totalInjected
+totalOnceInjected
+totalTwiceInjected
+totalVaccineProvided
+vaccine_provided_by_time
+total_injected_by_time
+once_injected_by_time
+twice_injected_by_time
+totalVaccineAllocatedReality
+totalVaccineAllocated
+currentTeamInjectInPractice
